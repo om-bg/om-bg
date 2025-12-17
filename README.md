@@ -1,9 +1,7 @@
-# 👋 Salut, je suis Omar Benani
+# 👋 Salut, je suis Omar Benhari
 
-[![GitHub followers](https://img.shields.io/github/followers/om-bg?label=Followers&style=social)](https://github.com/om-bg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar-blue?logo=linkedin)](https://www.linkedin.com/in/om-bg)
-[![GitHub stars](https://img.shields.io/github/stars/om-bg?style=social)](https://github.com/om-bg)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar-blue?logo=linkedin)]([https://www.linkedin.com/in/om-bg](https://www.linkedin.com/in/omar-benhari-1b1800337/))
+[![Email](https://img.shields.io/badge/Email-omarbenani.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:omarbenhari.03@gmail.com)
 ---
 
 ## 🌟 À propos de moi
