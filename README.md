@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Salut, je suis Omar Benani
 
-<!--
-**om-bg/om-bg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/om-bg?label=Followers&style=social)](https://github.com/om-bg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar-blue?logo=linkedin)](https://www.linkedin.com/in/om-bg)
+[![GitHub stars](https://img.shields.io/github/stars/om-bg?style=social)](https://github.com/om-bg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 À propos de moi
+- Élève ingénieur en **Intelligence Artificielle & IoT**  
+- Passionné par la **robotique**, **smart home** et **apprentissage par renforcement**  
+- Actuellement sur des projets **ESP32-CAM, Android apps, et ML/AI**
+
+---
+
+## 🛠️ Compétences techniques
+
+### Langages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square)
+
+### Frameworks & Outils
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat-square)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF9900?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
+![RoboDK](https://img.shields.io/badge/-RoboDK-0F5CFF?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
+
+### Technologies
+- IoT: ESP32, capteurs DHT11, Ultrason, MQ-2  
+- Android: Java / Flutter / React Native  
+- Robotique: Simulation RoboDK, contrôle de moteurs et capteurs  
+- ML/AI: Détection d’objets, PPO, DQN, SARSA
+
+---
+
+## 📈 GitHub Stats
+
+![Omar GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-bg&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-bg&layout=compact&theme=radical)
+
+---
+
+## 💡 Projets récents
+
+| Projet | Tech | Description |
+|--------|------|-------------|
+| **Domotix** | ESP32, IoT | Système domotique intelligent pour maison connectée |
+| **Fake News Detector** | Python, ML, Streamlit | Détection automatique de fake news |
+| **Tasky Kids** | Flutter, Android | App éducative pour apprendre la gestion des tâches |
+| **Robot Explorer** | ESP32-CAM, Python | Robot autonome avec détection d’obstacles et exploration |
+
+---
+
+## 📫 Contact
+- Email: omar.benhari21@ump.ac.ma  
+- LinkedIn: [linkedin.com/in/om-bg](https://www.linkedin.com/in/om-bg)  
+
+---
+
+## ⚡ Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
