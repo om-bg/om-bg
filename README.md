@@ -1,13 +1,11 @@
 # 👋 Salut, je suis Omar Benhari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar-blue?logo=linkedin)]([https://www.linkedin.com/in/om-bg](https://www.linkedin.com/in/omar-benhari-1b1800337/))
-[![Email](https://img.shields.io/badge/Email-omarbenani.dev%40gmail.com-red?logo=gmail&logoColor=white)](mailto:omarbenhari.03@gmail.com)
 ---
 
 ## 🌟 À propos de moi
-- Élève ingénieur en **Intelligence Artificielle & IoT**  
-- Passionné par la **robotique**, **smart home** et **apprentissage par renforcement**  
-- Actuellement sur des projets **ESP32-CAM, Android apps, et ML/AI**
+- 🎓 Élève ingénieur en **Intelligence Artificielle , Robotique & IoT**  
+- 🤖 Intérêt particulier pour Computer Vision , Machine learning
+- 🚀 Motivé par l’innovation technologique et les projets concrets
 
 ---
 
@@ -17,6 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square)
+![C#](https://img.shields.io.ba
 
 ### Frameworks & Outils
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat-square)
