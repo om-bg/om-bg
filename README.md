@@ -1,11 +1,10 @@
 # Salut, je suis Omar Benhari 👋
 
 **Élève Ingénieur en Intelligence Artificielle, Robotique & IoT**  
-📍 *Maroc (Taourirt / Oujda / Berkane)*
+📍 *Maroc (Taourirt / Berkane)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:omarbenhari.03@gmail.com)
 
 ---
 
@@ -30,7 +29,7 @@ Je suis passionné par la création de systèmes intelligents, allant du déploi
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
-*   **Concepts :** ML (XGBoost, RF), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems.
+*   **Concepts :** ML (XGBoost, RF), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems, Edge IA 
 
 ### 📡 Robotique, IoT & Embarqué
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
