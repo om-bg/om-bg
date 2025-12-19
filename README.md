@@ -10,12 +10,13 @@
 
 ## 🧠 À propos de moi
 
-Actuellement en **Cycle Ingénieur** à l'**ENIAD**, je possède un profil hybride alliant la puissance de l'**Intelligence Artificielle** (LLMs, Computer Vision) aux contraintes du **Matériel Embarqué** (IoT, Robotique, Edge AI).
+Actuellement en **Cycle Ingénieur** à l'**ENIAD**, je me spécialise en **Intelligence Artificielle et Data Science**, avec un focus sur :
 
-Je suis passionné par la création de systèmes intelligents, allant du déploiement de modèles sur microcontrôleurs (TinyML) à la conception d'architectures RAG complexes.
+- 🤖 **LLMs et architectures RAG**  
+- 🖼️ **Computer Vision et traitement de données**  
+- ⚡ **Déploiement de modèles IA sur systèmes complexes**
 
-🎯 **RECHERCHE DE STAGE (PFE) :**
-> Je suis à la recherche d'un **Projet de Fin d'Études** (dès début 2026) pour appliquer mes compétences en **IA, Data Science ou Systèmes Embarqués** sur des projets innovants.
+Je suis passionné par la création de **systèmes intelligents capables d’analyser, raisonner et générer du contenu à partir de données**, allant de l’exploration de données à l’implémentation de solutions IA avancées.
 
 ---
 
