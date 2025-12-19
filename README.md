@@ -59,7 +59,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 | **🤖 Robotique** | **ExploraBot**<br>*(ESP32-CAM, YOLOv8, WebSocket)* | **Robot explorateur autonome.** Streaming vidéo temps réel, détection d'objets via YOLOv8 et télémétrie capteurs (GPS, Gaz, Temp). |
 | **⚖️ Legal AI** | **Assistant Juridique RAG**<br>*(LangChain, ChromaDB, Mistral-7B)* | **Chatbot contextuel.** Interroge le code pénal grâce à une architecture RAG et des embeddings multilingues pour répondre aux questions juridiques. |
 | **🌾 Smart IoT** | **Irrigation Intelligente**<br>*(IoT, MQTT, ThingsBoard)* | **Système de gestion agricole.** Monitoring de l'humidité du sol et contrôle de pompes à distance avec tableau de bord ThingsBoard et alertes WhatsApp. |
-| **🎙️ Audio AI** | **Générateur Auto de PV**<br>*(Whisper, Pyannote, Transformers)* | **Pipeline Audio-to-Text.** Transcription, diarisation (qui parle ?) et résumé automatique de réunions en PDF stylisés. |
 | **📉 Data** | **Churn Prediction**<br>*(XGBoost, SHAP, SMOTE)* | **Pipeline prédictif.** Analyse de l'attrition client avec gestion de données déséquilibrées et interprétabilité du modèle. |
 
 ---
