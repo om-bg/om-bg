@@ -29,8 +29,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
-*   **Concepts :** ML (XGBoost, RF), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems, Edge IA 
+*   **Concepts :** ML (Model ML (XGBoost, Random Forest ...), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems (Langchain , LangGraph), Edge IA 
 
 ### 📡 Robotique, IoT & Embarqué
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
