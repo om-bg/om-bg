@@ -56,17 +56,15 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 
 ---
 
-## 🚀 Projets 
+## 🚀 Featured Projects
 
 | Catégorie | Projet & Stack | Description |
 | :--- | :--- | :--- |
 | **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | **Assistant diagnostic complet.** Classification d'images médicales avec explicabilité (XAI) et génération de rapports via LLM (Gemini API). |
 | **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, SMOTE)* | **Pipeline prédictif.** Analyse de l'attrition client avec gestion de données déséquilibrées et interprétabilité du modèle. |
 | **📰 NLP & ML** | **Fake News Detection**<br>*(TF-IDF, Logistic Regression, Random Forest)* | **Classifieur de texte**. Nettoyage du corpus (lemmatisation, stop-words), vectorisation TF-IDF, comparaison de modèles et déploiement d’une démo interactive. |
-| **🏎️ Reinforcement Learning** | **AI Racing Kart**<br>*(Unity, C#, ML-Agents, PPO)* | **Agent autonome en simulation**. Environnement Unity de course, apprentissage par renforcement à partir d’observations (vitesse, distance, angle) et entraînement avec PPO. |
 | **🤖 Robotique** | **ExploraBot**<br>*(ESP32-CAM, YOLOv8, WebSocket)* | **Robot explorateur autonome.** Streaming vidéo temps réel, détection d'objets via YOLOv8 et télémétrie capteurs (GPS, Gaz, Temp). |
-| **⚖️ Legal AI** | **Assistant Juridique RAG**<br>*(LangChain, ChromaDB, Mistral-7B)* | **Chatbot contextuel.** Interroge le code pénal grâce à une architecture RAG et des embeddings multilingues pour répondre aux questions juridiques. |
-| **🌾 Smart IoT** | **Irrigation Intelligente**<br>*(IoT, MQTT, ThingsBoard)* | **Système de gestion agricole.** Monitoring de l'humidité du sol et contrôle de pompes à distance avec tableau de bord ThingsBoard et alertes WhatsApp. |
+
 
 
 
