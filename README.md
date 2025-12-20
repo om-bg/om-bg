@@ -42,24 +42,34 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **Edge AI :** TinyML, Quantization, Optimisation de modèles pour embarqué.
 *   **Protocoles :** MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
 
-### 💻 Web & DevOps
+### 💻 Web & DevOps & DataBase
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projets Sélectionnés
+## 🚀 Projets 
 
 | Catégorie | Projet & Stack | Description |
 | :--- | :--- | :--- |
 | **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | **Assistant diagnostic complet.** Classification d'images médicales avec explicabilité (XAI) et génération de rapports via LLM (Gemini API). |
+| **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, SMOTE)* | **Pipeline prédictif.** Analyse de l'attrition client avec gestion de données déséquilibrées et interprétabilité du modèle. |
+| **📰 NLP & ML** | **Fake News Detection**<br>*(TF-IDF, Logistic Regression, Random Forest)* | **Classifieur de texte**. Nettoyage du corpus (lemmatisation, stop-words), vectorisation TF-IDF, comparaison de modèles et déploiement d’une démo interactive. |
+| **🏎️ Reinforcement Learning** | **AI Racing Kart**<br>*(Unity, C#, ML-Agents, PPO)* | **Agent autonome en simulation**. Environnement Unity de course, apprentissage par renforcement à partir d’observations (vitesse, distance, angle) et entraînement avec PPO. |
 | **🤖 Robotique** | **ExploraBot**<br>*(ESP32-CAM, YOLOv8, WebSocket)* | **Robot explorateur autonome.** Streaming vidéo temps réel, détection d'objets via YOLOv8 et télémétrie capteurs (GPS, Gaz, Temp). |
 | **⚖️ Legal AI** | **Assistant Juridique RAG**<br>*(LangChain, ChromaDB, Mistral-7B)* | **Chatbot contextuel.** Interroge le code pénal grâce à une architecture RAG et des embeddings multilingues pour répondre aux questions juridiques. |
 | **🌾 Smart IoT** | **Irrigation Intelligente**<br>*(IoT, MQTT, ThingsBoard)* | **Système de gestion agricole.** Monitoring de l'humidité du sol et contrôle de pompes à distance avec tableau de bord ThingsBoard et alertes WhatsApp. |
-| **📉 Data** | **Churn Prediction**<br>*(XGBoost, SHAP, SMOTE)* | **Pipeline prédictif.** Analyse de l'attrition client avec gestion de données déséquilibrées et interprétabilité du modèle. |
+
+
+
 
 ---
 
