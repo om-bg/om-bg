@@ -1,7 +1,7 @@
 # Salut, je suis Omar Benhari 👋
 
 **Élève Ingénieur en Intelligence Artificielle, Robotique & IoT**  
-📍 *Maroc (Taourirt / Berkane)*
+📍 *Maroc (Oujda/Taourirt/ Berkane)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
@@ -31,16 +31,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 *   **Concepts :** ML (Model ML (XGBoost, Random Forest ...), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems (Langchain , LangGraph), Edge IA 
 
-### 📡 Robotique, IoT & Embarqué
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-*   **Hardware :** ESP32, ESP32-CAM, Capteurs (Lidar, DHT, GPS, Gaz), Actionneurs.
-*   **Edge AI :** TinyML, Quantization, Optimisation de modèles pour embarqué.
-*   **Protocoles :** MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
-
 ### 💻 Web & DevOps & DataBase
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -52,6 +42,16 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 📡 Robotique, IoT & Embarqué
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+*   **MCU :** ESP32, ESP32-CAM, Capteurs (Lidar, DHT, GPS, Gaz), Actionneurs.
+*   **Edge AI :** TinyML, Quantization, Optimisation de modèles pour embarqué.
+*   **Protocoles - Iot:** MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
 
 ---
 
