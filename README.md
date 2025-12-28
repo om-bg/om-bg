@@ -2,6 +2,7 @@
 
 **Élève Ingénieur en Intelligence Artificielle, Robotique & IoT**  
 📍 *Maroc (Oujda/Taourirt/ Berkane)*
+![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
