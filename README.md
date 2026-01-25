@@ -1,6 +1,6 @@
 # Salut, je suis Omar Benhari 👋
 
-**Élève Ingénieur en Intelligence Artificielle, Robotique & IoT**  
+**Élève Ingénieur en Intelligence Artificielle | Robotique & IoT**  
 📍 *Maroc (Oujda/Taourirt/ Berkane)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
@@ -28,7 +28,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-*   **Concepts :** ML (Model ML (XGBoost, Random Forest ...), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems (Langchain , LangGraph), Edge IA 
+*   **Concepts :** ML (Model ML (XGBoost, Random Forest ...), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems (Langchain , LangGraph), Edge AI : TinyML, Quantization, Optimisation de modèles pour embarqué, Protocoles - Iot: MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
 
 ### 💻 Web & DevOps & DataBase
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -42,15 +42,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📡 Robotique, IoT & Embarqué
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-*   **MCU :** ESP32, ESP32-CAM, Capteurs (Lidar, DHT, GPS, Gaz), Actionneurs.
-*   **Edge AI :** TinyML, Quantization, Optimisation de modèles pour embarqué.
-*   **Protocoles - Iot:** MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
 
 ---
 
@@ -77,14 +68,14 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **Enquêteur Officiel - RGPH 2024 (HCP)** | *Août 2024 – Oct 2024*
     *   Collecte de données terrain à grande échelle et assurance qualité.
 
-*   **Stage PFE (DUT) - IoT Santé (CHU Oujda)** | *Mai 2023 – Juin 2023*
+*   **Stage (DUT) - IoT Santé (CHU Oujda)** | *Mai 2023 – Juin 2023*
     *   Système de suivi patient IoT : ESP32, Capteurs (Pulse, Temp), App Android et Firebase Realtime.
 
 ---
 
 ## 🎓 Formation
 
-*   **2023 – 2026 :** Cycle Ingénieur – Robotique & Objets Connectés | *ENIAD, Berkane*
+*   **2023 – 2026 :** Cycle Ingénieur – Intelligence Artificielle | Robotique & Objets Connectés | *ENIAD, Berkane*
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
 ---
