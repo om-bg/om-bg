@@ -79,7 +79,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
 ---
-![14](https://komarev.com/ghpvc/?username=om-bg)
+(https://komarev.com/ghpvc/?username=om-bg)
 
 <div align="center">
   <br>
