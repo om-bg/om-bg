@@ -41,6 +41,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=om-bg&label=" alt="14" width="10" />
 
 
 ---
@@ -79,7 +80,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
 ---
-<img src="https://komarev.com/ghpvc/?username=om-bg&label=" alt="14" width="10" />
 
 <div align="center">
   <br>
