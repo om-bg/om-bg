@@ -1,7 +1,7 @@
 # Salut, je suis Omar Benhari 👋
 
 **Élève Ingénieur en Intelligence Artificielle | IoT**  
-📍 *Maroc (Oujda/Taourirt/ Berkane)*
+📍 *Maroc (Taourirt) *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
 
@@ -79,10 +79,9 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
 ---
-![Test](https://komarev.com/ghpvc/?username=om-bg)
+![](https://komarev.com/ghpvc/?username=om-bg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-bg&show_icons=true&theme=radical" alt="Omar's GitHub Stats" />
   <br>
   <i>Ouvert aux opportunités de collaboration et aux défis techniques !</i>
 </div>
