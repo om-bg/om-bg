@@ -80,6 +80,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 
 ---
 ![](https://komarev.com/ghpvc/?username=om-bg&label=)
+<img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&label=" alt="14" width="50" />
 
 <div align="center">
   <br>
