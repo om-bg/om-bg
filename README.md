@@ -80,7 +80,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2023 – 2026 :** Cycle Ingénieur – Intelligence Artificielle | Robotique & Objets Connectés | *ENIAD, Berkane*
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
-[![GitHub stats](https://your-vercel-app-name.vercel.app/api?username=om-bg&count_private=true&show_icons=true)]
 
 ---
 
