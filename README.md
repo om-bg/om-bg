@@ -43,7 +43,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=om-bg&label=" alt="14" width="10" />
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 ---
@@ -81,7 +80,7 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2023 – 2026 :** Cycle Ingénieur – Intelligence Artificielle | Robotique & Objets Connectés | *ENIAD, Berkane*
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-bg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
