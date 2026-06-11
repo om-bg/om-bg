@@ -43,6 +43,8 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=om-bg&label=" alt="14" width="10" />
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 
 ---
 
@@ -81,7 +83,6 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 
