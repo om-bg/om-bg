@@ -79,6 +79,8 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 *   **2023 – 2026 :** Cycle Ingénieur – Intelligence Artificielle | Robotique & Objets Connectés | *ENIAD, Berkane*
 *   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <div align="center">
