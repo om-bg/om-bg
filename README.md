@@ -81,6 +81,8 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 ---
 
 <div align="center">
