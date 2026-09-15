@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=210&section=header&text=Omar%20Benhari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20AI%20Safety&descSize=16&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=760&lines=Building+reliable+AI+systems;Working+with+LLMs%2C+RAG%2C+and+AI+Agents;Exploring+AI+Safety%2C+Guardrails%2C+and+LLM+Security;Turning+AI+ideas+into+practical+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Fresh+Graduate+AI+Engineer;Working+with+RAG%2C+LLMs%2C+Machine+Learning+%26+NLP;Exploring+AI+Safety+%26+LLM+Guardrails)](https://git.io/typing-svg)
 
 <br>
 
