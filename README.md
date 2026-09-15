@@ -1,6 +1,7 @@
 # Salut, je suis Omar Benhari 👋
 
-**Élève Ingénieur en Intelligence Artificielle**  
+**AI Engineer | Machine Learning | Generative AI | AI Safety & LLM Guardrails**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
 
@@ -8,28 +9,41 @@
 
 ## 🧠 À propos de moi
 
-Actuellement en **Cycle Ingénieur** à l'**ENIAD**, je me spécialise en **Intelligence Artificielle et Data Science**, avec un focus sur :
+Récemment diplômé en ingénierie, spécialisé en **Intelligence Artificielle et Data Science** à l’**ENIAD**, je m’intéresse à la conception de systèmes IA fiables, performants et exploitables dans des environnements réels.
 
-- 🤖 **LLMs et architectures RAG**  
-- 🖼️ **Computer Vision et traitement de données**  
-- ⚡ **Déploiement de modèles IA sur systèmes complexes**
+Mes principaux domaines d’intérêt sont :
 
-Je suis passionné par la création de **systèmes intelligents capables d’analyser, raisonner et générer du contenu à partir de données**, allant de l’exploration de données à l’implémentation de solutions IA avancées.
+- 🤖 **Large Language Models, RAG & AI Agents**
+- 🛡️ **AI Safety, LLM Security & Guardrails**
+- 📊 **Machine Learning & Deep Learning**
+- 🖼️ **Computer Vision**
+- ⚙️ **AI Engineering, APIs & Deployment**
+
+Mon travail récent porte notamment sur l’évaluation de la robustesse des LLMs, les benchmarks de sécurité, les jailbreaks et prompt injections, les approches **LLM-as-a-Judge**, ainsi que la conception de **guardrails configurables** pour la validation des entrées/sorties et l’application de politiques de sécurité.
 
 ---
 
-## 🛠️ Competences Technique
+## 🛠️ Compétences Techniques
 
-### 🧠 IA, Data Science & GenAI
+### 🤖 AI, Machine Learning & Generative AI
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-*   **Concepts :** ML (Model ML (XGBoost, Random Forest ...), Deep Learning (CNN, RNN, Transformers), NLP, RAG, Fine-Tuning, Multi-Agent Systems (Langchain , LangGraph), Edge AI : TinyML, Quantization, Optimisation de modèles pour embarqué, Protocoles - Iot: MQTT, HTTP/WebSocket, I2C, SPI, UART, CoAP.
 
-### 💻 Web & DevOps & DataBase
+- **Machine Learning :** XGBoost, Random Forest, Logistic Regression, Scikit-learn
+- **Deep Learning :** CNNs, Transformers, Fine-Tuning
+- **NLP & LLMs :** RAG, Embeddings, Prompt Engineering, LLM Evaluation
+- **AI Agents :** LangChain, LangGraph, Multi-Agent Systems
+- **AI Safety :** LLM Guardrails, Jailbreak & Prompt Injection Evaluation, LLM-as-a-Judge, Content Safety
+- **Computer Vision :** Image Classification, Grad-CAM, OpenCV
+- **Vector Databases :** FAISS, ChromaDB
+
+### 💻 Backend, Web, Data & DevOps
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -40,9 +54,15 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<img src="https://komarev.com/ghpvc/?username=om-bg&label=" alt="14" width="10" />
 
+- **Backend & APIs :** FastAPI, REST APIs
+- **Frontend :** React.js, JavaScript, HTML, CSS
+- **Data :** Pandas, NumPy, SQL
+- **Databases :** PostgreSQL, MySQL, Redis, Firebase
+- **DevOps :** Git, GitHub, Docker, CI/CD, Postman
+- **Data Engineering :** Apache Kafka, Event-Driven Architectures
 
+<img src="https://komarev.com/ghpvc/?username=om-bg&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 
 ---
 
@@ -50,39 +70,51 @@ Je suis passionné par la création de **systèmes intelligents capables d’ana
 
 | Catégorie | Projet & Stack | Description |
 | :--- | :--- | :--- |
-| **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | **Assistant diagnostic complet.** Classification d'images médicales avec explicabilité (XAI) et génération de rapports via LLM (Gemini API). |
-| **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, SMOTE)* | **Pipeline prédictif.** Analyse de l'attrition client avec gestion de données déséquilibrées et interprétabilité du modèle. |
-| **📰 NLP & ML** | **Fake News Detection**<br>*(TF-IDF, Logistic Regression, Random Forest)* | **Classifieur de texte**. Nettoyage du corpus (lemmatisation, stop-words), vectorisation TF-IDF, comparaison de modèles et déploiement d’une démo interactive. |
-| **🤖 Robotique** | **ExploraBot**<br>*(ESP32-CAM, YOLOv8, WebSocket)* | **Robot explorateur autonome.** Streaming vidéo temps réel, détection d'objets via YOLOv8 et télémétrie capteurs (GPS, Gaz, Temp). |
-
-
-
-
+| **🛡️ AI Safety** | **GuardedLLM**<br>*(Python, LLM Guardrails, AI Safety, Redis, LLM-as-a-Judge)* | Framework configurable pour la validation des entrées/sorties LLM, l’application de politiques de sécurité, l’orchestration de détecteurs et l’audit des décisions. |
+| **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | Système d’aide au diagnostic basé sur la classification d’images médicales, l’explicabilité XAI et la génération de rapports via LLM. |
+| **⚖️ Generative AI** | **RAG Legal Assistant**<br>*(LangChain, ChromaDB, Sentence-Transformers, Mistral-7B)* | Assistant conversationnel pour interroger des documents juridiques via embeddings, recherche vectorielle et génération augmentée par récupération. |
+| **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, FastAPI, Docker)* | Pipeline de prédiction de l’attrition client avec feature engineering, explicabilité du modèle et exposition via API. |
+| **📰 NLP & ML** | **Fake News Detection**<br>*(TF-IDF, Logistic Regression, Random Forest)* | Système de classification de texte avec préparation du corpus, vectorisation TF-IDF et comparaison de modèles de Machine Learning. |
 
 ---
 
 ## 💼 Expériences Professionnelles
 
-*   **Stage PFA - MediPredict (CHU Oujda)** | *Juil 2025 – Sept 2025*
-    *   Développement Fullstack & IA : Intégration de modèles Deep Learning et explicabilité dans une application Web.
+### AI Engineering Intern — Naoris Quantum Protocol | 2026
 
-*   **Enquêteur Officiel - RGPH 2024 (HCP)** | *Août 2024 – Oct 2024*
-    *   Collecte de données terrain à grande échelle et assurance qualité.
+- Évaluation de la **sécurité et de la robustesse des LLMs** face aux jailbreaks, prompt injections et comportements adversariaux.
+- Comparaison de modèles via benchmarks, métriques quantitatives et approches **LLM-as-a-Judge**.
+- Contribution au développement, à l’intégration et au débogage de **services IA**.
+- Conception de **guardrails configurables** pour la validation des entrées/sorties, les contrôles de sécurité, l’application de politiques et l’auditabilité.
+- Production d’analyses comparatives et de rapports techniques sur le comportement et les limites des modèles.
 
-*   **Stage (DUT) - IoT Santé (CHU Oujda)** | *Mai 2023 – Juin 2023*
-    *   Système de suivi patient IoT : ESP32, Capteurs (Pulse, Temp), App Android et Firebase Realtime.
+### AI Engineering Intern — CHU Mohammed VI Oujda | Juil 2025 – Sept 2025
+
+- Développement d’une plateforme **FastAPI / React** pour la classification d’images médicales.
+- Fine-tuning d’**EfficientNetB0** avec une précision de **94 %**.
+- Implémentation de **Grad-CAM** pour l’explicabilité des prédictions.
+- Intégration de **Gemini API** pour la génération et la contextualisation de rapports médicaux.
 
 ---
 
 ## 🎓 Formation
 
-*   **2023 – 2026 :** Cycle Ingénieur – Intelligence Artificielle | Robotique & Objets Connectés | *ENIAD, Berkane*
-*   **2021 – 2023 :** DUT – Informatique Embarquée | *EST, Oujda*
+- **2023 – 2026 :** Cycle Ingénieur — Intelligence Artificielle | Robotique & Objets Connectés — **ENIAD, Berkane**
+- **2021 – 2023 :** DUT — Informatique Embarquée — **EST, Oujda**
 
+---
+
+## 🎯 Actuellement
+
+- Développement et évaluation de systèmes basés sur les **LLMs**
+- **AI Safety, Guardrails & LLM Security**
+- **RAG & AI Agents**
+- Machine Learning et AI Engineering
+- Ouvert aux opportunités **AI Engineer, Machine Learning Engineer & Generative AI Engineer**
 
 ---
 
 <div align="center">
   <br>
-  <i>Ouvert aux opportunités de collaboration et aux défis techniques !</i>
+  <i>Interested in building reliable, secure and production-ready AI systems.</i>
 </div>
