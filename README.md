@@ -60,7 +60,7 @@ Mes principaux domaines d’intérêt sont :
 - **DevOps :** Git, GitHub, Docker, CI/CD, Postman
 - **Data Engineering :** Apache Kafka, Event-Driven Architectures
 
-<img src="https://komarev.com/ghpvc/?username=om-bg&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=om-bg&label=Profile%20Views&color=blue&style=flat" alt="Profile views" height="50px" width="50px" />
 
 ---
 
