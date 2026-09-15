@@ -68,7 +68,7 @@ Mes principaux domaines d’intérêt sont :
 
 | Catégorie | Projet & Stack | Description |
 | :--- | :--- | :--- |
-| **🛡️ AI Safety** | **Guardrails**<br>*(Python, LLM Guardrails, AI Safety, Redis, LLM-as-a-Judge)* | Framework configurable pour la validation des entrées/sorties LLM, l’application de politiques de sécurité, l’orchestration de détecteurs et l’audit des décisions. |
+| **🛡️ AI Safety** | **Guardrails**<br>*(Python, LLM Guardrails, AI Safety, Redis, LLM-as-a-Judge)* | Configurable tool pour la validation des entrées/sorties LLM, l’application de politiques de sécurité, l’orchestration de détecteurs et l’audit des décisions. |
 | **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | Système d’aide au diagnostic basé sur la classification d’images médicales, l’explicabilité XAI et la génération de rapports via LLM. |
 | **⚖️ Generative AI** | **RAG Legal Assistant**<br>*(LangChain, ChromaDB, Sentence-Transformers, Mistral-7B)* | Assistant conversationnel pour interroger des documents juridiques via embeddings, recherche vectorielle et génération augmentée par récupération. |
 | **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, FastAPI, Docker)* | Pipeline de prédiction de l’attrition client avec feature engineering, explicabilité du modèle et exposition via API. |
