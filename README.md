@@ -2,6 +2,12 @@
 
 **AI Engineer | Machine Learning | Generative AI | AI Safety & LLM Guardrails**
 
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;AI+Safety+%7C+LLM+Guardrails+%7C+LLM+Security;Building+reliable+and+production-ready+AI+systems"
+  alt="Typing SVG"
+/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
 
