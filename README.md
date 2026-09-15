@@ -21,16 +21,6 @@ Mes principaux domaines d’intérêt sont :
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=om-bg&show_icons=true&theme=transparent&hide_border=true" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-bg&theme=transparent&hide_border=true" height="160" />
-
-</div>
-
----
-
 ## 🛠️ Compétences Techniques
 
 ### 🤖 AI, Machine Learning & Generative AI
@@ -111,6 +101,17 @@ Mes principaux domaines d’intérêt sont :
 - **2021 – 2023 :** DUT — Informatique Embarquée — **EST, Oujda**
 
 ---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=om-bg&show_icons=true&theme=transparent&hide_border=true" height="160" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-bg&theme=transparent&hide_border=true" height="160" />
+
+</div>
+
+---
+
 
 ## 🎯 Actuellement
 
