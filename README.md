@@ -9,7 +9,7 @@
 
 ## 🧠 À propos de moi
 
-Récemment diplômé en ingénierie, spécialisé en **Intelligence Artificielle et Data Science** à l’**ENIAD**, je m’intéresse à la conception de systèmes IA fiables, performants et exploitables dans des environnements réels.
+Récemment diplômé en ingénierie, spécialisé en **Intelligence Artificielle et Data Science** , je m’intéresse à la conception de systèmes IA fiables, performants et exploitables dans des environnements réels.
 
 Mes principaux domaines d’intérêt sont :
 
@@ -18,8 +18,6 @@ Mes principaux domaines d’intérêt sont :
 - 📊 **Machine Learning & Deep Learning**
 - 🖼️ **Computer Vision**
 - ⚙️ **AI Engineering, APIs & Deployment**
-
-Mon travail récent porte notamment sur l’évaluation de la robustesse des LLMs, les benchmarks de sécurité, les jailbreaks et prompt injections, les approches **LLM-as-a-Judge**, ainsi que la conception de **guardrails configurables** pour la validation des entrées/sorties et l’application de politiques de sécurité.
 
 ---
 
@@ -70,7 +68,7 @@ Mon travail récent porte notamment sur l’évaluation de la robustesse des LLM
 
 | Catégorie | Projet & Stack | Description |
 | :--- | :--- | :--- |
-| **🛡️ AI Safety** | **GuardedLLM**<br>*(Python, LLM Guardrails, AI Safety, Redis, LLM-as-a-Judge)* | Framework configurable pour la validation des entrées/sorties LLM, l’application de politiques de sécurité, l’orchestration de détecteurs et l’audit des décisions. |
+| **🛡️ AI Safety** | **Guardrails**<br>*(Python, LLM Guardrails, AI Safety, Redis, LLM-as-a-Judge)* | Framework configurable pour la validation des entrées/sorties LLM, l’application de politiques de sécurité, l’orchestration de détecteurs et l’audit des décisions. |
 | **🏥 Santé / IA** | **MediPredict**<br>*(EfficientNet, Grad-CAM, FastAPI, React)* | Système d’aide au diagnostic basé sur la classification d’images médicales, l’explicabilité XAI et la génération de rapports via LLM. |
 | **⚖️ Generative AI** | **RAG Legal Assistant**<br>*(LangChain, ChromaDB, Sentence-Transformers, Mistral-7B)* | Assistant conversationnel pour interroger des documents juridiques via embeddings, recherche vectorielle et génération augmentée par récupération. |
 | **📉 Data Science** | **Churn Prediction**<br>*(XGBoost, SHAP, FastAPI, Docker)* | Pipeline de prédiction de l’attrition client avec feature engineering, explicabilité du modèle et exposition via API. |
