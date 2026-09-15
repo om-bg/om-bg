@@ -1,17 +1,33 @@
-# Salut, je suis Omar Benhari 👋
+<div align="center">
 
-**AI Engineer | Machine Learning | Generative AI | AI Safety & LLM Guardrails**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=210&section=header&text=Omar%20Benhari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20AI%20Safety&descSize=16&descAlignY=55)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=760&lines=Building+reliable+AI+systems;Working+with+LLMs%2C+RAG%2C+and+AI+Agents;Exploring+AI+Safety%2C+Guardrails%2C+and+LLM+Security;Turning+AI+ideas+into+practical+systems)](https://git.io/typing-svg)
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;AI+Safety+%7C+LLM+Guardrails+%7C+LLM+Security;Building+reliable+and+production-ready+AI+systems"
-  alt="Typing SVG"
-/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-benhari-1b1800337)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/om-bg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-benhari-1b1800337/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarbenhari.03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-bg)
 
----
+</div>
+
+<br>
+
+## About
+
+AI Engineer focused on building practical and reliable systems across **Machine Learning**, **Generative AI**, and **LLM-based applications**.
+
+Current work and interests include **LLM evaluation**, **RAG systems**, **AI Agents**, **AI Safety**, **LLM Guardrails**, and **model robustness**, with experience building AI services, evaluation pipelines, and end-to-end applications.
+
+Main areas of focus:
+
+- **Generative AI:** LLMs, RAG, AI Agents, Multi-Agent Systems
+- **AI Safety:** Guardrails, Jailbreak Evaluation, Prompt Injection, LLM Security
+- **Machine Learning:** Deep Learning, NLP, Computer Vision, Model Evaluation
+- **AI Engineering:** FastAPI, Docker, Redis, PostgreSQL, CI/CD
+
+<br>
 
 ## 🧠 À propos de moi
 
