@@ -139,20 +139,20 @@ Mes principaux domaines d’intérêt sont :
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amineelgardoum-rgb/amineelgardoum-rgb/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Total stars, repos, forks, issues, commits and pull requests"/>
-<img src="https://raw.githubusercontent.com/amineelgardoum-rgb/amineelgardoum-rgb/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Languages across all public repositories"/>
+<img src="https://raw.githubusercontent.com/om-bg/om-bg/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="Total stars, repos, forks, issues, commits and pull requests"/>
+<img src="https://raw.githubusercontent.com/om-bg/om-bg/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Languages across all public repositories"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/amineelgardoum-rgb/amineelgardoum-rgb/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="24%" alt="Languages I actually commit in"/>
-<img src="https://raw.githubusercontent.com/amineelgardoum-rgb/amineelgardoum-rgb/main/profile-summary-card-output/radical/4-productive-time.svg" width="24%" alt="Times of day I code most"/>
-<a href="https://github.com/amineelgardoum-rgb">
-  <img src="https://streak-stats.demolab.com/?user=amineelgardoum-rgb&theme=radical&hide_border=true" width="49%" alt="Contribution streak"/>
+<img src="https://raw.githubusercontent.com/om-bg/om-bg/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="24%" alt="Languages I actually commit in"/>
+<img src="https://raw.githubusercontent.com/om-bg/om-bg/main/profile-summary-card-output/radical/4-productive-time.svg" width="24%" alt="Times of day I code most"/>
+<a href="https://github.com/om-bg">
+  <img src="https://streak-stats.demolab.com/?user=om-bg&theme=radical&hide_border=true" width="49%" alt="Contribution streak"/>
 </a>
 
 ### `trophies`
 
-<img src="https://raw.githubusercontent.com/amineelgardoum-rgb/amineelgardoum-rgb/main/assets/trophy.svg" width="100%" alt="GitHub trophies"/>
+<img src="https://raw.githubusercontent.com/om-bg/om-bg/main/assets/trophy.svg" width="100%" alt="GitHub trophies"/>
 
 
 
