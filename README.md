@@ -130,7 +130,7 @@ Mes principaux domaines d’intérêt sont :
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-bg&theme=transparent&hide_border=true" height="160" />
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=om-bg&show=prs_authored,issues_authored&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=om-bg&commits_year=2026&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=prs_merged,prs_authored&show_icons=true&theme=tokyonight)
 
 </div>
 
