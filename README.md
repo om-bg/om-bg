@@ -126,7 +126,7 @@ Mes principaux domaines d’intérêt sont :
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=om-bg&commits_year&role=OWNER&show=prs_authored=2026,prs_merged=2026&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=om-bg&commits&role=OWNER&show=prs_authored=2026,prs_merged=2026&show_icons=true&theme=radical)
 </div>
 
 ---
