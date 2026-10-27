@@ -123,11 +123,12 @@ Mes principaux domaines d’intérêt sont :
 - **2021 – 2023 :** DUT — Informatique Embarquée — **EST, Oujda**
 
 ---
-
 <div align="center">
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=om-bg&include_all_commits=true&show=prs_authored,prs_merged,prs_merged_percentage,all_time_contribs&prs,issues,contribs&contribs_include_own_repos=true&show_icons=true&theme=radical)
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=om-bg&amp;include_all_commits=true&amp;show=prs_authored,prs_merged,prs_merged_percentage,all_time_contribs&amp;hide=stars,prs,issues,contribs&amp;contribs_include_own_repos=true&amp;show_icons=true&amp;theme=radical"
+    alt="GitHub Statistics"
+  />
 </div>
-
 ---
 
 
